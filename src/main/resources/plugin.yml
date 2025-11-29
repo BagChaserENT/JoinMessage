@@ -1,0 +1,5 @@
+name: JoinMessage
+version: "1.0.0"
+author: BagChaser
+api: ["1.0.0"]
+main: bagchaser.joinmessage.JoinMessage
